@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1538eb1-3ef1-4729-96dd-16f3e47c313d" name="Changes" comment="initial" />
+    <list default="true" id="a1538eb1-3ef1-4729-96dd-16f3e47c313d" name="Changes" comment="initial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/goonok/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/goonok/ATM.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +68,8 @@
       <workItem from="1706610831415" duration="1149000" />
       <workItem from="1706612478474" duration="330000" />
       <workItem from="1706628995114" duration="151000" />
+      <workItem from="1706798165939" duration="67000" />
+      <workItem from="1706799057676" duration="2374000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -74,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706629118455</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial">
+      <option name="closed" value="true" />
+      <created>1706798192236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706798192236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
